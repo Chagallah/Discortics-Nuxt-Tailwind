@@ -1,0 +1,163 @@
+@import url('https://fonts.google.com/share?selection.family=Baloo%202');
+.form-card {
+  /* background: linear-gradient(102.94deg,
+      rgba(255, 255, 255, 0.12) 0%,
+      rgba(255, 255, 255, 0) 232.2%); */
+  background: rgba(38, 37, 42, 0.85);
+  border-radius: 12px;
+  backdrop-filter: blur(20px);
+}
+
+.form-card .input {
+  border: 2px solid #434343;
+  box-sizing: border-box;
+  box-shadow: 0px 3.06027px 5.35547px -1.53013px rgba(0, 0, 0, 0.25);
+  border-radius: 7.65067px;
+}
+
+.form-card .gradient-circle {
+  background: linear-gradient(233.52deg,
+      rgba(79, 164, 249, 0.82) 45.01%,
+      rgba(122, 118, 251, 0) 111.17%);
+  filter: blur(180.71px);
+}
+
+.exampleText {
+  background: rgba(79, 164, 249, 0.1);
+  box-shadow: 0px 6px 36px -1.53013px rgba(0, 0, 0, 0.11);
+  border-radius: 7.65067px;
+}
+
+.form_grad {
+  background: linear-gradient(113.57deg, #4FA4F9 -74.59%, rgba(242, 118, 250, 0) 249.06%);
+  border-radius: 7.65067px;
+  background: linear-gradient(97.52deg, rgba(149, 144, 255, 0.35) 3.96%, rgba(125, 120, 210, 0.35) 25.91%, rgba(90, 83, 142, 0.35) 63.33%);
+}
+
+.emote_title {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22.952px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  color: #E1EBFF;
+}
+
+.emoji_part2 {
+  background: #3E3D42;
+  box-sizing: border-box;
+  border-radius: 50%;
+}
+
+.emoji_part1 {
+  background: #7B84BB;
+  border: 1px solid #FFFFFF;
+  box-sizing: border-box;
+  border-radius: 50%;
+}
+
+.emoji_part {
+  background: rgba(255, 255, 255, 0.19);
+  box-sizing: border-box;
+  border-radius: 50%;
+}
+
+.emoji_icon {
+  background: #3E3D42;
+  box-sizing: border-box;
+  border-radius: 50%;
+}
+
+.icon_font {
+  font-size: 35px;
+}
+
+.emoji_sel {
+  border: 1px dashed #FFFFFF;
+  box-sizing: border-box;
+  font-size: 40px;
+  cursor: pointer;
+}
+
+.manage {
+  background: linear-gradient(90deg, #FA868A 0%, #9B73D1 121.3%, rgba(249, 174, 131, 0) 477.78%);
+  -webkit-backdrop-filter: blur(13.4614px);
+  width: 89px;
+  height: 33.82px;
+}
+
+.manage_modaltitle {
+  /* font-family: 'Montserrat'; */
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  display: flex;
+  align-items: center;
+  color: #E1EBFF;
+}
+
+.wbBtn {
+  background: rgba(180, 146, 217, 0.3);
+  -webkit-backdrop-filter: blur(24.4091px);
+  border-radius: 4.5202px;
+  height: 27.12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.wbinputbg {
+  background: linear-gradient(102.94deg, rgba(255, 255, 255, 0.09) 0%, rgba(255, 255, 255, 0) 232.2%);
+  -webkit-backdrop-filter: blur(19.1509px);
+  border-radius: 7px;
+}
+
+.inputtag {
+  background: transparent !important;
+  border-radius: 5px;
+  border-width: 3px !important;
+  border-color: rgba(202, 167, 250, 0.5) !important;
+  border-top: none !important;
+  border-bottom: none !important;
+  border-right: none !important;
+}
+
+.inputtag>span {
+  background-color: rgba(180, 146, 217, 0.3) !important;
+  color: rgba(202, 167, 250, 1) !important;
+  font-size: 0.75rem !important;
+  border-radius: 0.25rem !important;
+  border: none !important;
+  align-items: center;
+  display: flex !important;
+  justify-content: space-between !important;
+  padding: 5px !important;
+}
+
+.inputtag>span>span {
+  margin-right: 0.5rem !important;
+}
+
+.inputtag>span>a {
+  color: rgba(202, 167, 250, 1) !important;
+  font-weight: 500 !important;
+  font-size: 18px !important;
+}
+
+.inputtag {
+  background: transparent !important;
+  border-radius: 5px;
+  border-width: 3px !important;
+}
+
+.toggletext {
+  font-family: 'Baloo 2';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 14px;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+}
